@@ -11,7 +11,8 @@
 5. Добавляем обработку CSS и JS файлов, кеширование ресурсов.
 
 
-<img src="images/nginx.jpg" alt="nginx.jpg" width="400">
+<img width="372" alt="image" src="https://github.com/user-attachments/assets/1f267ce3-29aa-424d-a7a9-9e6cf3d62b72" />
+
 
 ## 5. Билдим и запускаем контейнер с веб-сервером.
 
@@ -22,4 +23,5 @@
 
 В браузере делаем запрос на localhost:443 и радуемся нашему рабочему сайту
 
-<img src="images/production.jpg" alt="production.jpg" width="400">
+<img width="521" alt="image" src="https://github.com/user-attachments/assets/4b89f899-c694-4338-ab40-e3dbaf7fdc5a" />
+
