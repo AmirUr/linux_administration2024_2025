@@ -31,3 +31,9 @@ bash -c 'sleep 1 & child_pid=$!; echo "CHILD PID: $child_pid"; wait'
 ```
 0 3 * * 1 apt update && apt upgrade -y && apt autoremove -y
 ```
+Написание скрипта на обработки вывода команды ps для определения суммы значений в столбцах VSZ и RSS для процесса, 
+выполняющегося в системе.
+
+<img width="971" alt="image" src="https://github.com/user-attachments/assets/a214629a-f02d-4fb5-b162-93663fb7fd8f" />
+
+
