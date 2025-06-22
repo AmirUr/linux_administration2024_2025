@@ -16,7 +16,7 @@
 
 ## 5. Билдим и запускаем контейнер с веб-сервером.
 
-<img width="525" alt="image" src="https://github.com/user-attachments/assets/f0f72805-7797-494f-9b71-e68adf18fff9" />
+<img width="326" alt="image" src="https://github.com/user-attachments/assets/38ed03a9-1278-455f-af5f-5f5a424bdc78" />
 
 
 
