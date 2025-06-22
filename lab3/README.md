@@ -14,7 +14,7 @@
 <img width="372" alt="image" src="https://github.com/user-attachments/assets/1f267ce3-29aa-424d-a7a9-9e6cf3d62b72" />
 
 
-## 5. Билдим и запускаем контейнер с веб-сервером.
+## Билдим и запускаем контейнер с веб-сервером.
 
 <img width="326" alt="image" src="https://github.com/user-attachments/assets/11bc2da6-fedc-4a45-8553-93da731c5673" />
 
