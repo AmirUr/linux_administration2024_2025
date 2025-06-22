@@ -1,6 +1,7 @@
 ## Напишем докерфайл
 
-<img src="images/dockerimagegood.jpg" alt="dockerimagegood.jpg" width="400">
+<img width="312" alt="image" src="https://github.com/user-attachments/assets/c286f4a9-a2e3-4216-a8fa-a0e9872562b6" />
+
 
 ## Настроим конфигурацию нашего веб-сервера на NGINX.
 1. Добавим количество одновременных соединений в блоке EVENTS.
@@ -14,8 +15,11 @@
 
 ## 5. Билдим и запускаем контейнер с веб-сервером.
 
-<img src="images/dockerbuild.jpg" alt="dockerbuild.jpg" width="400">
+<img width="525" alt="image" src="https://github.com/user-attachments/assets/f0f72805-7797-494f-9b71-e68adf18fff9" />
 
-В браузере делаем запрос на localhost:443 и радуемся нашему рабочему сайту!!! Все статические файлы работают, кнопки прожимаются, можно добавить книги в корзину и перемещаться по сайту!!!
+
+
+
+В браузере делаем запрос на localhost:443 и радуемся нашему рабочему сайту
 
 <img src="images/production.jpg" alt="production.jpg" width="400">
